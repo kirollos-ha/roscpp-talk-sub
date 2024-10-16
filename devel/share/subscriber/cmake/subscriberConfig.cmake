@@ -1,0 +1,1 @@
+/root/testenv/devel/.private/subscriber/share/subscriber/cmake/subscriberConfig.cmake

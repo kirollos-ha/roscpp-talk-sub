@@ -1,0 +1,6 @@
+subscriber
+/root/testenv/devel/.private/subscriber/cmake.lock /root/testenv/devel/./cmake.lock
+/root/testenv/devel/.private/subscriber/lib/pkgconfig/subscriber.pc /root/testenv/devel/lib/pkgconfig/subscriber.pc
+/root/testenv/devel/.private/subscriber/lib/subscriber/subscriber_node /root/testenv/devel/lib/subscriber/subscriber_node
+/root/testenv/devel/.private/subscriber/share/subscriber/cmake/subscriberConfig.cmake /root/testenv/devel/share/subscriber/cmake/subscriberConfig.cmake
+/root/testenv/devel/.private/subscriber/share/subscriber/cmake/subscriberConfig-version.cmake /root/testenv/devel/share/subscriber/cmake/subscriberConfig-version.cmake

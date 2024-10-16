@@ -1,0 +1,4 @@
+Symlinking /root/testenv/devel/lib/pkgconfig/subscriber.pc
+Symlinking /root/testenv/devel/lib/subscriber/subscriber_node
+Symlinking /root/testenv/devel/share/subscriber/cmake/subscriberConfig.cmake
+Symlinking /root/testenv/devel/share/subscriber/cmake/subscriberConfig-version.cmake

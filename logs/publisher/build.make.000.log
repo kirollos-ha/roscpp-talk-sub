@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target publisher_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/publisher_node.dir/main.cpp.o[0m
+[01m[K/root/testenv/src/publisher/main.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/root/testenv/src/publisher/main.cpp:14:57:[m[K [01;31m[Kerror: [m[K‘[01m[Ktrajerr[m[K’ was not declared in this scope
+   14 |     ros::Publisher pub = nh.advertise<std_msgs::String>([01;31m[Ktrajerr[m[K, 10);
+      |                                                         [01;31m[K^~~~~~~[m[K
+make[2]: *** [CMakeFiles/publisher_node.dir/build.make:63: CMakeFiles/publisher_node.dir/main.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:290: CMakeFiles/publisher_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,6 @@
+devel_space: /root/testenv/devel
+install: false
+install_space: /root/testenv/install
+profile: default
+source_space: /root/testenv/src
+workspace: /root/testenv

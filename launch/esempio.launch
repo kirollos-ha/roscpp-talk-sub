@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <arg name="topic"                    default="/ei/fu/siccome/immobile"/>
+    
+    <node name="publisher" pkg="publisher" type="publisher_node" output="screen" respawn="true">
+     <param name="topic" type="string"   value="$(arg topic)"/>
+    </node>
+
+    <node name="subscriber" pkg="subscriber" type="subscriber_node" output="screen" respawn="true">
+     <param name="topic" type="string"   value="$(arg topic)"/>
+    </node>
+</launch>
