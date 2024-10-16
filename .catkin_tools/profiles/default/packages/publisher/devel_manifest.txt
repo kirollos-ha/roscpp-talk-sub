@@ -1,6 +1,0 @@
-publisher
-/root/testenv/devel/.private/publisher/cmake.lock /root/testenv/devel/./cmake.lock
-/root/testenv/devel/.private/publisher/lib/pkgconfig/publisher.pc /root/testenv/devel/lib/pkgconfig/publisher.pc
-/root/testenv/devel/.private/publisher/lib/publisher/publisher_node /root/testenv/devel/lib/publisher/publisher_node
-/root/testenv/devel/.private/publisher/share/publisher/cmake/publisherConfig.cmake /root/testenv/devel/share/publisher/cmake/publisherConfig.cmake
-/root/testenv/devel/.private/publisher/share/publisher/cmake/publisherConfig-version.cmake /root/testenv/devel/share/publisher/cmake/publisherConfig-version.cmake

@@ -1,8 +1,0 @@
-prefix=/root/testenv/devel/.private/publisher
-
-Name: publisher
-Description: Description of publisher
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: message_runtime std_msgs
