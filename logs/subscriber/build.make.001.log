@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target subscriber_node[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/subscriber_node.dir/main.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /root/testenv/devel/.private/subscriber/lib/subscriber/subscriber_node[0m
-[100%] Built target subscriber_node

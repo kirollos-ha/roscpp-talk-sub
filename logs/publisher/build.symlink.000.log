@@ -1,4 +1,0 @@
-Symlinking /root/testenv/devel/lib/pkgconfig/publisher.pc
-Symlinking /root/testenv/devel/lib/publisher/publisher_node
-Symlinking /root/testenv/devel/share/publisher/cmake/publisherConfig.cmake
-Symlinking /root/testenv/devel/share/publisher/cmake/publisherConfig-version.cmake

@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target publisher_node[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/publisher_node.dir/main.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /root/testenv/devel/.private/publisher/lib/publisher/publisher_node[0m
-[100%] Built target publisher_node
